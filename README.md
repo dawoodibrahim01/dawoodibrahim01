@@ -16,6 +16,6 @@ Founder of **Lumo Studio** and **DI Tech Solutions**.
 Now in closed testing on Google Play. *(Private repository – source code is not public.)*
 
 ### Tools
-Unity · C# · Blender · Photon Fusion · Firebase · Google Play · AdMob · WordPress · Git
+Unity · C# · Blender · Photon Fusion · Google Play · AdMob · WordPress · Git
 
 📫 Work with us: [ditechsolutionsllc.com](https://ditechsolutionsllc.com)
